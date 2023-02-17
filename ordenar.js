@@ -14,6 +14,6 @@ function ordenar(lista, propriedade){
     return resultado;
 }
 
-const ordenadaNome = ordenar(clientes, "nome")
+const ordenadaNome = ordenar(clientes, "nome");
 
-console.log(ordenadaNome)
+console.log(ordenadaNome);
